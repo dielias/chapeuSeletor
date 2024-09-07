@@ -4,7 +4,7 @@ Este projeto te transporta para o mundo mágico de Hogwarts! ✨
 
 **Funcionalidades:**
 
-* **Selecionador de Casa:** Adivinhe em qual casa você seria distribuído, assim como o Chapéu Seletor! ‍♂️
+* **Selecionador de Casa:** Adivinhe em qual casa você seria distribuído, assim como o Chapéu Seletor!
 
 **Linguagens e Tecnologias Utilizadas:**
 
